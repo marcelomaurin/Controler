@@ -19,7 +19,7 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName={pf}\ToolFalar
+DefaultDirName={pf}\Controler
 
 DisableProgramGroupPage=yes
 OutputBaseFilename=setup_controler100
