@@ -13,9 +13,9 @@ object frmMain: TfrmMain
     Height = 414
     Top = 0
     Width = 345
-    ActivePage = TabSheet3
+    ActivePage = TabSheet2
     Align = alClient
-    TabIndex = 2
+    TabIndex = 1
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'Movimento'
